@@ -11,3 +11,5 @@
 | kernel.pid_max | 32768 | 65536 | 131072 | 131072 | 131072 |
 
 The base config values are set for the **1GB / 1core** profile. Adjust these values according to your own server's RAM and core count.
+
+Replace the **sysctl.conf** file with the previous file in the **/etc** directory.
