@@ -12,4 +12,4 @@
 
 The base config values are set for the **1GB / 1core** profile. Adjust these values according to your own server's RAM and core count.
 
-Replace the **sysctl.conf** file with the previous file in the **/etc** directory.
+Replace the **sysctl.conf** file with the **previous sysctl.conf file** in the **/etc** directory.
