@@ -14,4 +14,6 @@ The base config values are set for the **1GB / 1core** profile. Adjust these val
 
 Replace the **sysctl.conf** file with the **previous sysctl.conf file** in the **/etc** directory.
 To save the **sysctl settings**, run this **command**:
-<code>sysctl -p</code>
+```bash
+sysctl -p
+```
