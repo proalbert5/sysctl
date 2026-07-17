@@ -8,7 +8,6 @@
 | net.netfilter.nf_conntrack_buckets | 8192 | 16384 | 32768 | 65536 | 131072 |
 | vm.min_free_kbytes | 16384 | 32768 | 65536 | 131072 | 262144 |
 | fs.file-max / nr_open | 50000 | 100000 | 200000 | 400000 | 800000 |
-| kernel.pid_max | 32768 | 65536 | 131072 | 131072 | 131072 |
 
 The base config values are set for the **2GB / 1core** profile. Adjust these values according to your own server's RAM and core count.
 
